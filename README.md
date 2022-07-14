@@ -1,6 +1,6 @@
 # Price Predictor, a ML program to estimate prices of houses based on given dataset.
 
- This machine learning project using python is created to to inderstand how machine learning problems are tackled in real world scenarios. 
+ This machine learning project using python is created to to understand how machine learning problems are tackled in real world scenarios. 
  Different regression models are tried and the best model is chosen to get best results for our dataset.
  This problem is an example of supervised learning, regression task, batch learning and RMSE type error measurements for the data.
  Whole process is automated in Jupyter Notebook.
