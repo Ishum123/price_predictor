@@ -1,4 +1,4 @@
-# Price Predictor is a 
+# Price Predictor, a ML program to extimate prices of houses based on given dataset.
 
 # This machine learning project using python is created to to inderstand how machine learning problems are tackled in real world scenarios. 
 # Differnet regression models are tried and the best model is chosen to get best results for our dataset.
