@@ -6,23 +6,14 @@
  Whole process is automated in Jupyter Notebook.
 # Includes: 
   a) looking for correlations
-  
   b) handling missing data through imputing
-  
   c) understanding scikit-learn designs
-  
   d) creating pipelines
-  
   e) feature scaling using standardisation
-  
   f) cross-validation of data
-  
   g) choosing best regression model
-  
   h) saving model
-  
   i) testing model
-  
   j) launching model.
  
  
