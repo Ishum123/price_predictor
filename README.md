@@ -1,4 +1,4 @@
-# Price Predictor, a ML program to estimate prices of houses based on given dataset.
+# Queen's Estate Price Predictor, a ML program to estimate prices of houses based on given dataset.
 
  This machine learning project using python is created to to understand how machine learning problems are tackled in real world scenarios. 
  Different regression models are tried and the best model is chosen to get best results for our dataset.
