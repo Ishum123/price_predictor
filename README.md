@@ -9,7 +9,7 @@
   b) handling missing data through imputing
   c) understanding scikit-learn designs
   d) creating pipelines
-  e) feature scaling
+  e) feature scaling using standardisation \n
   f) cross-validation of data 
   g) choosing best regression model
   h) saving model 
