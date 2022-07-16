@@ -1,6 +1,8 @@
 # Queen's Estate Price Predictor, a ML program to estimate prices of houses based on given dataset.
 
- This machine learning project using python is created to to understand how machine learning problems are tackled in real world scenarios. 
+![machine](https://user-images.githubusercontent.com/94554260/179350657-da31c90b-6ff2-4c42-b738-650bd4217d3c.jpg)
+
+This machine learning project using python is created to to understand how machine learning problems are tackled in real world scenarios. 
  Different regression models are tried and the best model is chosen to get best results for our dataset.
  This problem is an example of supervised learning, regression task, batch learning and RMSE type error measurements for the data.
  Whole process is automated in Jupyter Notebook.
